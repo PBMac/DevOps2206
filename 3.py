@@ -15,3 +15,6 @@ g = "%s %s" % (b, d)
 print(g)
 #join
 print()
+
+print("moshe")
+print("haim")
