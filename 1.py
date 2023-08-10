@@ -1,5 +1,5 @@
 print("Hello, World!")
-a = 4
+a = 1
 b = 5
 c = a + b
 d = "Aviran"
